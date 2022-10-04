@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(16, 60, 79);
+    height: 10%;
+    color: blue;
+   
+}
+strong{
+    color: red;
+}
+*{
+    font-family: sans-serif;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    
+}
+P{
+    margin-left: 20px;
+}
+section{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid blue;
+    padding: 10px 25px;
+}
